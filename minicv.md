@@ -6,7 +6,7 @@
 
 # Formation
 
-- **Diplôme de Technicien Informatique** chez Arkesys Groupe *(Année de début - Année de fin)*  
+- **Diplôme de Technicien Informatique** chez Arkesys Groupe *(2023)*  
   Diplôme obtenu en informatique
 
 # Expérience professionnelle
